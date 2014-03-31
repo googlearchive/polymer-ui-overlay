@@ -2,7 +2,8 @@
   "name": "polymer-ui-overlay",
   "private": true,
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
-    "polymer-overlay": "Polymer/polymer-overlay#master"
-  }
+    "polymer": "Polymer/polymer#0.2.2",
+    "polymer-overlay": "Polymer/polymer-overlay#0.2.2"
+  },
+  "version": "0.2.2"
 }
